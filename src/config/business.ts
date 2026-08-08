@@ -69,7 +69,7 @@ export const business = {
       "Professional service, quality products, and customer-focused solutions for your everyday needs.",
     primaryButton: "Get in Touch",
     secondaryButton: "Explore Our Services",
-    image: "/images/hero.jpg",
+    image: "images/hero.jpg",
     imageAlt:
       "The Northstar team at work, delivering quality products and reliable service",
   },
@@ -92,7 +92,7 @@ export const business = {
     ],
     ctaLabel: "Learn More About Us",
     ctaHref: "#services",
-    image: "/images/about.jpg",
+    image: "images/about.jpg",
     imageAlt:
       "A member of the Northstar team at work, demonstrating quality and care",
     floatingStat: {
@@ -189,12 +189,12 @@ export const business = {
       "From store displays to completed projects, here's a glimpse of the quality we deliver every day.",
   },
   gallery: [
-    { image: "/images/gallery-1.jpg", title: "Store & Sales Area", alt: "A neatly organized store and sales area" },
-    { image: "/images/gallery-2.jpg", title: "Stock & Inventory", alt: "Well-stocked, organized inventory ready for delivery" },
-    { image: "/images/gallery-3.jpg", title: "Team at Work", alt: "The Northstar team working together on a project" },
-    { image: "/images/gallery-4.jpg", title: "Completed Project", alt: "A finished project delivered to a happy customer" },
-    { image: "/images/gallery-5.jpg", title: "Products We Carry", alt: "A selection of quality products we offer" },
-    { image: "/images/gallery-6.jpg", title: "Service in Action", alt: "A team member providing hands-on service" },
+    { image: "images/gallery-1.jpg", title: "Store & Sales Area", alt: "A neatly organized store and sales area" },
+    { image: "images/gallery-2.jpg", title: "Stock & Inventory", alt: "Well-stocked, organized inventory ready for delivery" },
+    { image: "images/gallery-3.jpg", title: "Team at Work", alt: "The Northstar team working together on a project" },
+    { image: "images/gallery-4.jpg", title: "Completed Project", alt: "A finished project delivered to a happy customer" },
+    { image: "images/gallery-5.jpg", title: "Products We Carry", alt: "A selection of quality products we offer" },
+    { image: "images/gallery-6.jpg", title: "Service in Action", alt: "A team member providing hands-on service" },
   ],
 
   // --- Testimonials ------------------------------------------------------------------------------
